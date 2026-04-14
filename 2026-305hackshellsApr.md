@@ -1,43 +1,90 @@
-# 305 HackShells
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/f717c5d6-c76e-4997-96ee-282324dd9714"
+    alt="305 Hackathon Agenda"
+    width="100%"
+  />
+</p>
 
-305 HackShells is a 12-hour student hackathon hosted by Swift Club at FIU. It is designed for students who want to team up, build a real project, and finish the day with something polished enough to demo.
+<h1 align="center">305 HackShells — April 2026</h1>
+<h3 align="center"><em>Innovation • AI • Product • Development</em></h3>
+<h1 align="center">Event Agenda</h1>
 
----
+<details>
+<summary><h2> FAQ (Frequently Asked Questions) </h2></summary>
 
-# Event Overview
+- **Do I need prior hackathon experience?**
 
-305 HackShells brings together students interested in:
+No. 305 HackShells is designed to be welcoming for first-time participants as well as returning builders.
 
-- Swift
-- iOS development
-- Android development
-- Google technologies
-- Amazon technologies
-- UI/UX design
-- Frontend development
-- Backend development
-- AI-powered features
-- Product thinking
-- Creative technology
+- **Can I join without a team?**
 
-Whether you are a beginner or already building projects, the event is designed to help you learn, collaborate, and ship something real in one day.
+Yes. You can join solo and form a team at the event. Teams can have 1 to 4 people max.
 
----
+- **How will projects be evaluated?**
 
-# Date and Location
+Projects will be evaluated based on the strength of the idea, the quality of the delivery, and the level of innovation. A fully coded product is not required, but every team should present something that makes the concept feel real, such as a strong prototype, product flow, demo, or experience that clearly shows how it would work in practice. Winners will be selected based on how convincingly the team brings the concept to life and how much potential the project shows.
 
-**Date:** Friday, April 10, 2026  
-**Location:** Florida International University  
-**Room:** To be announced
+</details>
 
 ---
 
-# Format
+<details>
+<summary><h2> 🧭 Quick Navigation </h2></summary>
 
-Length: 12 hours  
-Style: One-day hackathon  
+---
 
-Includes:
+<details>
+<summary><h3> 📌 Event Overview </h3></summary>
+
+Welcome to **305 HackShells — April 2026 Edition**.
+
+305 HackShells is a high-energy, 12-hour hackathon hosted by Swift Club at FIU, designed for students who want to collaborate, build, and ship a real project in a single day.
+
+Participants will work across disciplines to develop projects in mobile development, AI-powered applications, web platforms, and product design, while receiving guidance from mentors and experienced builders.
+
+No prior hackathon experience required — beginners are welcome.
+
+
+<details>
+<summary><strong>🧠 About the Event</strong></summary>
+
+| Category | Details |
+|--------|---------|
+| Event Type | One-day student hackathon and project sprint |
+| Focus Areas | AI • Mobile Development • Web Apps • Product Design |
+| Format | In-Person hackathon with guided build + demo sessions |
+| Eligibility | Open to all students — beginners and experienced builders welcome |
+
+</details>
+
+
+<details open>
+<summary><strong>📌 Event Information</strong></summary>
+
+| Event Info | Details |
+|-----------|---------|
+| 🎯 Theme | **Innovation • AI • Product • Development** |
+| 📅 Date | **Friday, April 10, 2026 (EST)** |
+| ⏱ Duration | **12 Hours** |
+| 🏫 Location | **Florida International University** |
+| 📍 Room | **To be announced** |
+| 👥 Team Size | **1–4 participants (solo allowed)** |
+| 🏗 Format | **In-Person Build Sprint + Demo + Judging** |
+| 🌎 Time Zone | Eastern Time (EST) |
+| 🎁 Prize | **$500 Amazon Gift Card (winning team)** |
+| 🧑‍🏫 Mentorship | Available throughout build session |
+| 🧾 Submission | GitHub + Slides + Demo Video + Devpost |
+
+</details>
+
+<details>
+<summary>📋 Format</summary>
+
+**Length:** 12 hours  
+**Style:** One-day hackathon  
+
+**Includes:**
 
 - team formation
 - mentor support
@@ -46,412 +93,292 @@ Includes:
 - judging
 - closing recognition
 
----
+**Open to:**
+  - first-time participants  
+  - experienced hackers  
+  - solo builders  
+  - teams (may have up to 4 participants
 
-# Team Rules
+</details>
 
-- You may join **solo**
-- Teams may have **1 to 4 participants**
-
----
-
-# Prize
-
-The winning team receives:
-
-**$500 Amazon Gift Card**
-
-Restrictions apply.  
-Projects must meet **all submission requirements** to be eligible.
+</details>
 
 ---
 
-# What Participants Can Expect
+<details>
+<summary><h3>🗓️ Agenda</h3></summary>
 
-Participants will:
+<details>
+<summary><strong>Session A — In Person</strong></summary>
 
-- meet teammates quickly
-- build during a focused sprint
-- receive mentor support
-- submit a working demo
-- present their solution
-- connect with Swift Club at FIU builders
+<details open>
+<summary><strong>📅 Timeline</strong></summary>
 
----
+| Time (EST) | Activity | Details | Location |
+|-----------|----------|---------|----------|
+| -------- | Registration & Check-In | On-site check-in | Venue |
+| 08:00 AM | Opening Ceremony | Welcome & event kickoff | Venue |
+| 09:00 AM | Start Hacking | In-person build sprint begins | Venue |
+| 11:00 PM | Workshop 1 | AI & Startup Prototyping | Venue |
+| 01:00 PM | Lunch Break | Food provided | In-Person |
+| 02:00 PM | Social Event | Interactive Activities & Games | Venue |
+| 02:30 PM | Workshop 2 | 	Data Science & Analytics | Venue |
+| 03:30 PM | Lead The Future Event | 	Leadership Development | Venue |
+| 04:00 PM | Google Cloud: Agentic AI | Google Developer Expert Karthigayan Devan | Venue |
+| 04:30 PM | Unleash Your Code Event | Networking| In-Person |
+| 05:00 PM | Dinner Break | Food provided | In-Person |
+| 05:30 PM | Submission Deadline | Projects due | Online Portal |
+| 05:30–07:30 PM | Live Demos & Judging | Project presentations | Venue |
+| 07:30 PM | Closing Ceremony | Awards & acknowledgements | Venue |
 
-# Event Flow
-
-## 7:00 AM – 11:00 AM
-
-- Check-in
-- Opening announcements
-- Hackathon prompts released
-- Team formation
-- Mentor check-ins
-- Early building
-
-## 11:00 AM – 5:00 PM
-
-- Focused build time
-- Mentor support
-- Iteration and polish
-- Project submissions
-- Lunch at 2:00 PM
-
-## 5:00 PM – 7:00 PM
-
-- Judging
-- Closing recognition
-- Networking
-- Dinner and snacks
+</details>
 
 ---
 
-# Project Fit
+<details>
+<summary><strong>💻 Tracks</strong></summary>
 
-Projects that fit 305 HackShells include:
+305 LawTech & Compliance Build Hackathon
+Build a simple app, website, AI helper, or secure workflow tool that solves a law, compliance, privacy, or policy-related problem.
 
-- Apps
-- Prototypes
-- Creative software
-- Product concepts
-- Student-focused tools
+Sample starter project ideas
 
-Strong projects usually have:
-
-- clear purpose
-- thoughtful UX
-- working demo
-- strong presentation quality
+- Create a product that helps users understand rules, complete forms, track requirements, or stay organized with important legal or compliance steps.
+- Design a beginner-friendly system that improves trust, accountability, documentation, or responsible decision-making.
+- Turn the idea into a working demo that clearly shows how the solution helps people navigate law, compliance, or institutional processes more easily.
 
 ---
 
-# Who Can Join
+305 Cybersecurity & Digital Trust Challenge
+Build a tool, dashboard, assistant, or prototype that helps protect users, devices, accounts, or data from digital threats.
 
-305 HackShells is open to:
+Sample starter project ideas
 
-- first-time hackathon participants
-- returning hackers
-- solo participants
-- teams
-- students exploring ideas
-
----
-
-# Organizing Team
-
-Supported by Swift Club at FIU leadership focused on:
-
-- event operations
-- technical guidance
-- participant support
-- onboarding
-- outreach
+- Create a solution focused on phishing awareness, identity protection, secure access, privacy controls, threat alerts, or safer online behavior.
+- Design a beginner-friendly cybersecurity project with one strong core feature that improves digital safety for students, schools, teams, or communities.
+- Show a working demo that clearly explains the problem, the security risk, and how your solution helps reduce it.
 
 ---
 
-# Final Goal
+305 Risk, Compliance Analytics / Data Science
+Create a dashboard that explains patterns in compliance status, security incidents, privacy risks, audit readiness, or policy-related trends.
 
-**Come in with an idea or find a team, spend the day building, and leave with something you can actually show off.**
+Sample starter project ideas
 
----
+- Analyze a public, institutional, or business dataset and turn it into clear charts, findings, and recommendations related to law, compliance, or cybersecurity.
+- Build a beginner-friendly data project that compares risks across time, categories, departments, or user behavior.
+- Show how data can help a school, team, business, or organization make smarter decisions about safety, compliance, and operational risk.
 
-# Registration
-
-Participants can register through the official event registration form.
-
-Hosted by **Swift Club at FIU**
-
----
-
-# Project Submission Requirements
-
-Strong submissions include:
-
-- GitHub repository
-- README documentation
-- demo slides
-- YouTube demo video
-- Devpost submission
-
-Projects with all components are considered strong submissions.
+</details>
 
 ---
 
-# Slide Deck Guide (Pitch Presentation)
+<details>
+<summary>🏆 Prizes & Awards</summary>
 
-Recommended templates:
+| Item | Details |
+|-----|--------|
+| 🥇 Winners | $500 Amazon Gift Card |
+| 📣 Announcements | During closing ceremony |
+| 🗂 Eligibility | Must meet all submission requirements |
+| ⚠️ Disclaimer | Subject to sponsor availability |
 
-Google Slides  
-https://docs.google.com/presentation/
+</details>
 
-Canva Pitch Templates  
-https://www.canva.com/presentations/templates/pitch-deck/
+</details>
 
-Sequoia Pitch Guide  
-https://www.sequoiacap.com/article/writing-a-business-plan/
+<details>
+<summary><strong>Session B — Online</strong></summary>
 
-YC Pitch Advice  
-https://www.ycombinator.com/library/4A-how-to-pitch-your-startup
+<details open>
+<summary><strong>📅 Timeline</strong></summary>
 
----
+| Time (EST) | Activity | Details | Location |
+|-----------|----------|---------|----------|
+| -------- | Registration & Check-In | On-site check-in | Online |
+| 08:00 AM | Opening Ceremony | Welcome & event kickoff | Online |
+| 09:00 AM | Start Hacking | In-person build sprint begins | Online |
+| 11:00 PM | Workshop 1 | AI & Startup Prototyping | Venue / Hybrid |
+| 01:00 PM | Lunch Break | Food provided | Online |
+| 02:00 PM | Social Event | Interactive Activities & Games | Venue / Hybrid |
+| 02:30 PM | Workshop 2 | 	Data Science & Analytics | Online |
+| 03:30 PM | Lead The Future Event | 	Leadership Development | Online |
+| 04:00 PM | Google Cloud: Agentic AI | Google Developer Expert Karthigayan Devan | Venue / Hybrid |
+| 04:30 PM | Unleash Your Code Event | Networking| Online |
+| 05:00 PM | Dinner Break | Food provided | Online |
+| 05:30 PM | Submission Deadline | Projects due | Online Portal |
+| 05:30–07:30 PM | Live Demos & Judging | Project presentations | Online |
+| 07:30 PM | Closing Ceremony | Awards & acknowledgements | Online |
 
-## Suggested Slide Structure
-
-1. Project title
-2. Problem
-3. Solution
-4. Features
-5. Tech stack
-6. Screenshots
-7. Impact
-8. Closing
-
----
-
-# GitHub README Guide
-
-Documentation:
-
-GitHub README Guide  
-https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
-
-README Generator  
-https://readme.so/
-
-Examples  
-https://github.com/matiassingers/awesome-readme
+</details>
 
 ---
 
-## Suggested README Sections
+<details>
+<summary><strong>💻 Tracks</strong></summary>
 
-- Inspiration
-- What it does
-- How we built it
-- Challenges
-- Accomplishments
-- What we learned
-- What's next
+305 LawTech & Compliance Build Hackathon
+Build a simple app, website, AI helper, or secure workflow tool that solves a law, compliance, privacy, or policy-related problem.
 
----
+Sample starter project ideas
 
-# Devpost Submission Guide
-
-Submit your project:
-
-https://devpost.com/
-
-Submission help:
-
-https://help.devpost.com/article/126-submit-a-project-to-a-hackathon
-
-Project examples:
-
-https://devpost.com/software
+- Create a product that helps users understand rules, complete forms, track requirements, or stay organized with important legal or compliance steps.
+- Design a beginner-friendly system that improves trust, accountability, documentation, or responsible decision-making.
+- Turn the idea into a working demo that clearly shows how the solution helps people navigate law, compliance, or institutional processes more easily.
 
 ---
 
-# YouTube Demo Guide
+305 Cybersecurity & Digital Trust Challenge
+Build a tool, dashboard, assistant, or prototype that helps protect users, devices, accounts, or data from digital threats.
 
-Upload demo:
+Sample starter project ideas
 
-https://youtube.com/upload
-
-Recommended length:
-
-2–3 minutes
-
----
-
-## Demo Structure
-
-0:00 intro  
-0:20 problem  
-0:40 solution  
-1:00 walkthrough  
-2:00 tech stack  
-2:20 closing  
-
-Recording tools:
-
-OBS Studio  
-https://obsproject.com/
-
-Loom  
-https://www.loom.com/
-
-Zoom  
-https://zoom.us/
-
-QuickTime  
-https://support.apple.com/guide/quicktime-player/record-your-screen-qtp97b08e666/mac
+- Create a solution focused on phishing awareness, identity protection, secure access, privacy controls, threat alerts, or safer online behavior.
+- Design a beginner-friendly cybersecurity project with one strong core feature that improves digital safety for students, schools, teams, or communities.
+- Show a working demo that clearly explains the problem, the security risk, and how your solution helps reduce it.
 
 ---
 
-# Vibe Coding Guide (AI App Builders)
+305 Risk, Compliance Analytics / Data Science
+Create a dashboard that explains patterns in compliance status, security incidents, privacy risks, audit readiness, or policy-related trends.
 
-Participants may use AI-assisted development tools to accelerate prototyping.
+Sample starter project ideas
 
-These tools generate working applications from prompts.
+- Analyze a public, institutional, or business dataset and turn it into clear charts, findings, and recommendations related to law, compliance, or cybersecurity.
+- Build a beginner-friendly data project that compares risks across time, categories, departments, or user behavior.
+- Show how data can help a school, team, business, or organization make smarter decisions about safety, compliance, and operational risk.
 
----
-
-# Prompt-to-App Builders (Similar to Base44)
-
-Base44  
-https://base44.ai/
-
-Lovable  
-https://lovable.dev/
-
-Replit Agent  
-https://replit.com/
-
-Bolt  
-https://bolt.new/
-
-Hostinger Horizons  
-https://www.hostinger.com/horizons
-
-Best for:
-
-- rapid MVP creation
-- dashboards
-- SaaS prototypes
-- student tools
+</details>
 
 ---
 
-# Design-to-Frontend Builders
+<details>
+<summary>🏆 Prizes & Awards</summary>
 
-Vercel v0  
-https://v0.dev/
+| Item | Details |
+|-----|--------|
+| 📣 Announcements | During closing ceremony |
+| 🗂 Eligibility | Must meet all submission requirements |
+| ⚠️ Disclaimer | Subject to sponsor availability |
 
-Tempo  
-https://tempo.new/
+</details>
 
-Figma AI  
-https://www.figma.com/ai/
+</details>
 
-Best for:
-
-- UI-first workflows
-- frontend prototypes
-- landing pages
+</details>
 
 ---
 
-# No-Code / Low-Code Builders
+<details>
+<summary><h3>📚 Resources</h3></summary>
 
-Bubble  
-https://bubble.io/
+<details>
+<summary><strong>✅ Submission Checklist</strong></summary>
 
-OutSystems  
-https://www.outsystems.com/
+Make sure your project is complete and ready before the final submission deadline.
 
-Appgyver  
-https://www.appgyver.com/
+### 📦 Required Components
 
-Appy Pie  
-https://www.appypie.com/
+- **GitHub Repository**
+  - Public repository with clean structure
+  - Includes all source code and assets
 
-Glide  
-https://www.glideapps.com/
+- **README Documentation**
+  - Clear explanation of your project
+  - Covers problem, solution, and implementation
+  - Includes setup instructions (if applicable)
 
-Thunkable  
-https://thunkable.com/
+- **Presentation Slides**
+  - Structured pitch (problem → solution → demo → impact)
+  - Visually clean and easy to follow
 
----
+- **Demo Video (2–3 minutes)**
+  - Shows how your project works
+  - Explains the problem and your solution clearly
 
-# AI Agent Workflow Builders
-
-AutoGen Studio  
-https://microsoft.github.io/autogen/
-
-AI2Apps  
-https://ai2apps.com/
-
-Langflow  
-https://langflow.org/
-
-Flowise  
-https://flowiseai.com/
+- **Devpost Submission**
+  - Complete project profile
+  - All required links attached (GitHub, slides, video)
 
 ---
 
-# Mobile App Builders
+### ⭐ What Makes a Strong Submission
 
-Rork  
-https://rork.app/
-
-DreamFlow  
-https://dreamflow.app/
-
-FlutterFlow  
-https://flutterflow.io/
+- Clear and compelling idea  
+- Functional or well-demonstrated prototype  
+- Thoughtful user experience (UX)  
+- Strong storytelling and presentation  
 
 ---
 
-# Emerging AI Builders
+### ⚠️ Important Notes
 
-Emergent  
-https://emergent.sh/
+- All components must be submitted **before the deadline**
+- Missing materials may result in **disqualification from judging**
+- Focus on **clarity over complexity** — a simple, well-executed idea wins
 
-Dazl  
-https://dazl.ai/
+</details>
 
-HeyBoss  
-https://heyboss.ai/
+<details>
+<summary><strong>🔗 Important Links</strong></summary>
 
-Wix Harmony AI  
-https://www.wix.com/harmony
+### 🚀 Submission Platforms
 
-Builder.io AI  
-https://www.builder.io/
+- **Devpost (Project Submission)**
+  - https://devpost.com/
+  - Submit your final project here
 
----
-
-# Recommended Hackathon Stack
-
-Fastest setup:
-
-Base44 + Lovable + Vercel v0 + Firebase or Supabase
-
-Firebase  
-https://firebase.google.com/
-
-Supabase  
-https://supabase.com/
-
-Benefits:
-
-- rapid prototyping
-- exportable code
-- deployable apps
-- scalable architecture
+- **YouTube (Demo Video Upload)**
+  - https://youtube.com/upload
+  - Upload your 2–3 minute demo video
 
 ---
 
-# Example Hackathon Workflow
+### 🎤 Presentation Tools
 
-Step 1 — Generate app using Base44 or Lovable  
-Step 2 — Build UI with Vercel v0  
-Step 3 — Deploy backend with Firebase  
-Step 4 — Add authentication  
-Step 5 — Record demo  
-Step 6 — Submit Devpost
+- **Google Slides**
+  - https://docs.google.com/presentation/
+  - Recommended for pitch decks and demos
+
+- **Canva Pitch Templates**
+  - https://www.canva.com/presentations/templates/pitch-deck/
+  - Great for fast, clean, professional slides
 
 ---
 
-# Submission Checklist
+### 🛠 Helpful Resources
 
-Before submitting ensure:
+- **GitHub README Guide**
+  - https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
 
-✅ GitHub repository uploaded  
-✅ README completed  
-✅ slides prepared  
-✅ demo video uploaded  
-✅ Devpost submitted
+- **README Generator**
+  - https://readme.so/
 
-Projects with all components are considered strong submissions.
+---
+
+### 💡 Tips
+
+- Keep everything **simple, clear, and demo-ready**
+- Prioritize **presentation quality and usability**
+- Make sure all links are **working and accessible**
+
+</details>
+
+</details>
+
+---
+
+<details>
+<summary><h3>🎯 Final Goal</h3></summary>
+
+305 HackShells is built on one idea — that students should be able to collaborate, build, and showcase real projects in a single day.
+
+Participants will meet other students, form teams quickly, and choose between an in-person 12-hour sprint or a virtual build experience. Throughout the event, they will create a working demo, follow live updates and resources from organizers, and stay connected with the Swift Club at FIU and a growing community of student builders.
+
+**No prior experience required. Just show up and build.**
+
+</details>
+
+---
+
+</details>
