@@ -1,269 +1,228 @@
-<h1 align="center">305 HackShells — June 2026 🐚</h1>
+<h1 align="center">🐚 305 HackShells — June 2026</h1>
 <h3 align="center"><em>SecureBuild Edition · Cybersecurity • Google Cloud</em></h3>
-<h1 align="center">Event Agenda</h1>
 
-<details>
-<summary><h2> FAQ (Frequently Asked Questions) </h2></summary>
+<p align="center">
+  <strong>📅 Saturday, June 27, 2026</strong> · <strong>⏱ 8:00 AM – 8:00 PM EDT</strong> · <strong>🏫 FIU (Room TBA)</strong>
+  <br/>
+  👥 Teams of 1–4 · 🎓 All majors · 🌱 Beginners welcome · 🎁 Prizes TBA
+</p>
 
-- **Do I need prior hackathon experience?**
-
-  No. 305 HackShells is designed to be welcoming for first-time participants as well as returning builders.
-
-- **Do I need a cybersecurity background?**
-
-  No. Workshops and mentors will guide you through everything you need. Beginner-friendly tracks are available.
-
-- **Can I join without a team?**
-
-  Yes. You can join solo and form a team at the event. Teams can have 1 to 4 people max.
-
-- **How will projects be evaluated?**
-
-  Projects will be evaluated based on the strength of the idea, the quality of the delivery, and the level of innovation. A fully coded product is not required, but every team should present something that makes the concept feel real, such as a strong prototype, product flow, demo, or experience that clearly shows how it would work in practice. Winners will be selected based on how convincingly the team brings the concept to life and how much potential the project shows.
-
-</details>
+<p align="center">
+  <a href="#-schedule--june-27">Schedule</a> ·
+  <a href="#-tracks--pick-your-challenge">Tracks</a> ·
+  <a href="#-how-to-participate-start-to-finish">How to Participate</a> ·
+  <a href="#-submissions">Submissions</a> ·
+  <a href="#-prizes--judging">Prizes & Judging</a> ·
+  <a href="#-what-to-bring">What to Bring</a> ·
+  <a href="#-faq">FAQ</a> ·
+  <a href="#-links--resources">Links</a>
+</p>
 
 ---
 
-<details>
-<summary><h2> 🧭 Quick Navigation </h2></summary>
+## 🌊 What is 305 HackShells?
 
----
+A high-energy, **12-hour in-person hackathon** — part of the Hack University ecosystem — where students team up, build a real project in one day, and demo it to judges by sunset.
 
-<details>
-<summary><h3> 📌 Event Overview </h3></summary>
+This **SecureBuild Edition** is all about making the digital world safer: build tools, dashboards, AI helpers, and prototypes powered by **cybersecurity practices and Google Cloud**.
 
-Welcome to **305 HackShells — June 2026 (SecureBuild Edition)**.
+**No prior hackathon (or cybersecurity!) experience required.** Workshops and mentors carry you through everything.
 
-305 HackShells is a high-energy, 12-hour hackathon — part of the Hack University ecosystem — designed for students who want to collaborate, build, and ship a real project in a single day.
-
-This edition is all about **Cybersecurity and Google Cloud**: participants will build tools, dashboards, AI helpers, and prototypes that make the digital world safer, with guidance from mentors and experienced builders.
-
-No prior hackathon experience required — beginners are welcome.
-
-<details open>
-<summary><strong>📌 Event Information</strong></summary>
-
-| Event Info | Details |
-|-----------|---------|
-| 🎯 Theme | **Cybersecurity • Google Cloud** |
-| 📅 Date | **Saturday, June 27, 2026 (EDT)** |
-| ⏱ Duration | **12 Hours (8:00 AM – 8:00 PM)** |
-| 🏫 Location | **Florida International University** |
-| 📍 Room | **To be announced** |
-| 👥 Team Size | **1–4 participants (solo allowed)** |
-| 🏗 Format | **In-Person Build Sprint + Demo + Judging** |
-| 🌎 Time Zone | Eastern Time (EDT) |
-| 🎁 Prize | **To be announced** |
-| 🧑‍🏫 Mentorship | Available throughout build session |
+| Quick facts | |
+|---|---|
+| 🎯 Theme | Cybersecurity • Google Cloud |
+| 📅 Date | Saturday, June 27, 2026 (EDT) |
+| ⏱ Duration | 12 hours — 8:00 AM to 8:00 PM |
+| 🏫 Location | Florida International University · Room TBA |
+| 👥 Team size | 1–4 (come solo, we'll match you!) |
 | 🧾 Submission | GitHub + Slides + Demo Video + Devpost |
+| 💻 Session B | Virtual async version runs Jun 1–30 — build from anywhere |
+
+---
+
+## 🗓 Schedule — June 27
+
+**Morning · arrive, meet, launch 🌅**
+
+| Time | Activity | What happens |
+|------|----------|--------------|
+| 8:00 AM | ☕ Check-In & Breakfast Vibes | Badge, swag, find your people |
+| 8:30 AM | 🎤 Opening Ceremony | Theme reveal, rules, judging criteria, prizes |
+| 9:00 AM | 🤝 Team Formation | Solo? We'll match you in 15 minutes |
+| 9:30 AM | 🚀 HACKING BEGINS | Build sprint starts — mentors circulate |
+
+**Midday · learn while you build 🛠**
+
+| Time | Activity | What happens |
+|------|----------|--------------|
+| 11:00 AM | 🛡 Workshop 1 | Cybersecurity Fundamentals & Digital Trust |
+| 1:00 PM | 🍕 Lunch | Food provided — step away from the keyboard, it helps |
+| 2:00 PM | 🎲 Social Break | Games + networking (your future co-founder is here) |
+| 2:30 PM | ☁️ Workshop 2 | Google Cloud: Building Secure Apps |
+| 4:00 PM | ✨ Google Guest Session | Speaker from Google (TBA) |
+
+**Evening · ship it and shine 🌇**
+
+| Time | Activity | What happens |
+|------|----------|--------------|
+| 5:00 PM | 🌮 Dinner | Food provided — final push fuel |
+| 5:30 PM | 🔒 SUBMISSION DEADLINE | Devpost closes — no exceptions, submit a draft early! |
+| 5:30–7:30 PM | 🎬 Live Demos & Judging | Every team presents — must demo live to be eligible |
+| 7:30 PM | 🏆 Closing Ceremony | Winners announced, prizes, thank-yous |
+| 8:00 PM | 📸 Final Group Photo | Then we clean up and go home heroes |
+
+> ⏰ **The three times that matter:** 8:00 AM (doors), 5:30 PM (submission lock), 5:30 PM (demos start). Put them in your phone now.
+
+---
+
+## 💻 Tracks — pick your challenge
+
+Choose ONE track. All tracks are beginner-friendly — one strong core feature beats five half-built ones.
+
+### 🛡 Cybersecurity & Digital Trust
+Build a tool, dashboard, assistant, or prototype that protects users, devices, accounts, or data.
+
+*Starter ideas:* phishing-awareness trainer · password health checker · privacy dashboard · scam-alert bot for students
+
+### ☁️ Google Cloud Security Build
+Use Google Cloud tools to build a secure app, workflow, or AI-powered helper.
+
+*Starter ideas:* secure login demo with Identity Platform · AI that flags suspicious messages · safe file-sharing mini-app
+
+### 📊 Risk & Security Analytics
+Turn data into insight about security incidents, privacy risks, or risky behavior.
+
+*Starter ideas:* breach-data visualizer · campus Wi-Fi risk map · "how leaked are you?" dataset explorer
+
+---
+
+## 🧭 How to Participate (start to finish)
+
+**Before the event**
+
+1. ✅ RSVP: https://swiftclubatfiu.vercel.app/305HackShells
+2. 🐙 Create a GitHub account if you don't have one: https://github.com/signup
+3. 🏆 Create a Devpost account: https://devpost.com
+4. 💡 Optional: skim the starter template so day-of feels familiar
+
+**At the event**
+
+5. ☕ Check in at 8:00 AM, form a team by 9:00 AM
+6. 🚀 Generate your repo from the **starter template** (it has guides for everything):
+   👉 https://github.com/HACK-UNIVERSITY-WORLDWIDE/starter-hackathon-project
+7. 🛠 Build, attend workshops, ask mentors anything — that's what they're for
+
+**Before 5:30 PM**
+
+8. 📤 Submit on Devpost (repo + slides + demo video) — see Submissions below
+9. 🎬 Demo live, cheer for everyone, win stuff
+
+---
+
+## 📦 Submissions
+
+Your Devpost submission needs **4 things** — the starter template has a full guide for each:
+
+| What | Guide |
+|------|-------|
+| 1. Public GitHub repo with README | [README template](https://github.com/HACK-UNIVERSITY-WORLDWIDE/starter-hackathon-project) |
+| 2. Pitch slides | [presentation guide](https://github.com/HACK-UNIVERSITY-WORLDWIDE/starter-hackathon-project/blob/main/presentation/README.md) |
+| 3. Demo video (2–3 min) | [demo-video guide](https://github.com/HACK-UNIVERSITY-WORLDWIDE/starter-hackathon-project/blob/main/demo-video/README.md) |
+| 4. Devpost write-up | [devpost guide](https://github.com/HACK-UNIVERSITY-WORLDWIDE/starter-hackathon-project/blob/main/devpost/README.md) |
+
+⚠️ **Hard rules:** submitted before 5:30 PM · repo is public · live demo at judging · missing pieces = ineligible for prizes.
+
+---
+
+## 🏆 Prizes & Judging
+
+| | |
+|---|---|
+| 🥇 Prizes | To be announced — watch the Discord/announcements |
+| 🧑‍⚖️ How judging works | Live demo + Q&A with judges, 5:30–7:30 PM |
+| 📊 What judges score | Strength of the idea · quality of delivery · level of innovation |
+| 🤖 Do I need finished code? | No — a convincing prototype/flow that makes the concept feel REAL can win |
+| ⚠️ Disclaimer | Prizes subject to sponsor availability |
+
+---
+
+## 🎒 What to Bring
+
+- 💻 Laptop + charger (non-negotiable)
+- 🪪 Student ID
+- 🎧 Headphones for focus time
+- 🧥 A hoodie — lecture halls get cold
+- 🔌 Power strip if you have one (instant team hero)
+- 😴 Good night's sleep the day before — 12 hours is a marathon
+
+*Provided by us: food (lunch + dinner + snacks), Wi-Fi, swag, mentors, good vibes.*
+
+---
+
+## ❓ FAQ
+
+<details>
+<summary><strong>I've never done a hackathon. Will I drown?</strong></summary>
+
+No — this event is literally designed for first-timers. Workshops teach the theme, mentors are everywhere, and the starter template gives you every document pre-organized. Show up curious; that's the only requirement.
 
 </details>
 
 <details>
-<summary>📋 Format</summary>
+<summary><strong>I don't know cybersecurity. Can I still compete?</strong></summary>
 
-**Length:** 12 hours
-**Style:** One-day, in-person hackathon (part of the month-long 305 HackShells June 2026)
-
-**Includes:**
-
-- team formation
-- mentor support
-- guided build time
-- cybersecurity & Google Cloud workshops
-- submissions
-- judging
-- closing recognition
-
-**Open to:**
-
-- first-time participants
-- experienced hackers
-- solo builders
-- teams (up to 4 participants)
-
-</details>
-
-</details>
-
----
-
-<details>
-<summary><h3>🗓️ Agenda</h3></summary>
-
-<details open>
-<summary><strong>📅 Timeline — Saturday, June 27, 2026</strong></summary>
-
-| Time (EDT) | Activity | Details | Location |
-|-----------|----------|---------|----------|
-| 8:00 AM | Setup, Registration & Check-In | On-site check-in, badges & swag | Venue |
-| 8:30 AM | Opening Ceremony | Welcome, theme reveal, rules, judging & prizes | Venue |
-| 9:00 AM | Team Formation | Team matching for solo participants | Venue |
-| 9:30 AM | Start Hacking | Build sprint begins, mentors circulate | Venue |
-| 11:00 AM | Workshop 1 | Cybersecurity Fundamentals & Digital Trust | Venue |
-| 1:00 PM | Lunch Break | Food provided | Venue |
-| 2:00 PM | Social Event | Interactive activities, networking games | Venue |
-| 2:30 PM | Workshop 2 | Google Cloud: Building Secure Apps | Venue |
-| 4:00 PM | Google Cloud Session | Speaker from Google (TBA) | Venue |
-| 5:00 PM | Dinner Break | Food provided | Venue |
-| 5:30 PM | Submission Deadline | Projects due | Online Portal |
-| 5:30–7:30 PM | Live Demos & Judging | Project presentations | Venue |
-| 7:30 PM | Closing Ceremony | Awards & acknowledgements | Venue |
-| 8:00 PM | Event Ends | Cleanup & final group photo | Venue |
-
-</details>
-
----
-
-<details>
-<summary><strong>💻 Tracks</strong></summary>
-
-305 Cybersecurity & Digital Trust Challenge
-Build a tool, dashboard, assistant, or prototype that helps protect users, devices, accounts, or data from digital threats.
-
-Sample starter project ideas
-
-- Create a solution focused on phishing awareness, identity protection, secure access, privacy controls, threat alerts, or safer online behavior.
-- Design a beginner-friendly cybersecurity project with one strong core feature that improves digital safety for students, schools, teams, or communities.
-- Show a working demo that clearly explains the problem, the security risk, and how your solution helps reduce it.
-
----
-
-305 Google Cloud Security Build
-Use Google Cloud tools and services to build a secure app, workflow, or AI-powered helper.
-
-Sample starter project ideas
-
-- Build an app or API on Google Cloud that demonstrates secure authentication, data protection, or threat detection.
-- Use AI/ML on Google Cloud to detect suspicious behavior, classify risks, or help users make safer decisions.
-- Show a working demo that highlights how Google Cloud makes your solution more secure, scalable, or reliable.
-
----
-
-305 Risk & Security Analytics / Data Science
-Create a dashboard that explains patterns in security incidents, privacy risks, or policy-related trends.
-
-Sample starter project ideas
-
-- Analyze a public dataset and turn it into clear charts, findings, and recommendations related to cybersecurity or risk.
-- Build a beginner-friendly data project that compares risks across time, categories, or user behavior.
-- Show how data can help a school, team, or organization make smarter decisions about safety and risk.
-
-</details>
-
----
-
-<details>
-<summary>🏆 Prizes & Awards</summary>
-
-| Item | Details |
-|-----|--------|
-| 🥇 Winners | To be announced |
-| 📣 Announcements | During closing ceremony |
-| 🗂 Eligibility | Must meet all submission requirements |
-| ⚠️ Disclaimer | Subject to sponsor availability |
-
-</details>
-
-</details>
-
----
-
-<details>
-<summary><h3>📚 Resources</h3></summary>
-
-<details>
-<summary><strong>✅ Submission Checklist</strong></summary>
-
-Make sure your project is complete and ready before the final submission deadline.
-
-### 📦 Required Components
-
-- **GitHub Repository**
-  - Public repository with clean structure
-  - Includes all source code and assets
-  - Start from the starter template: https://github.com/HACK-UNIVERSITY-WORLDWIDE/starter-hackathon-project
-
-- **README Documentation**
-  - Clear explanation of your project
-  - Covers problem, solution, and implementation
-  - Includes setup instructions (if applicable)
-
-- **Presentation Slides**
-  - Structured pitch (problem → solution → demo → impact)
-  - Visually clean and easy to follow
-
-- **Demo Video (2–3 minutes)**
-  - Shows how your project works
-  - Explains the problem and your solution clearly
-
-- **Devpost Submission**
-  - Complete project profile
-  - All required links attached (GitHub, slides, video)
-
----
-
-### ⭐ What Makes a Strong Submission
-
-- Clear and compelling idea
-- Functional or well-demonstrated prototype
-- Thoughtful user experience (UX)
-- Strong storytelling and presentation
-
----
-
-### ⚠️ Important Notes
-
-- All components must be submitted **before the deadline**
-- Missing materials may result in **disqualification from judging**
-- Focus on **clarity over complexity** — a simple, well-executed idea wins
+Yes! Workshop 1 (11:00 AM) covers the fundamentals, and the tracks are written so a beginner project with ONE strong feature can win. "Awareness" projects (teaching people to be safer) count too.
 
 </details>
 
 <details>
-<summary><strong>🔗 Important Links</strong></summary>
+<summary><strong>Can I join without a team?</strong></summary>
 
-### 🚀 Submission Platforms
-
-- **Devpost (Project Submission)**
-  - https://305hackshellsjune2026.devpost.com/
-
-- **YouTube (Demo Video Upload)**
-  - https://youtube.com/upload
-
----
-
-### 🎤 Presentation Tools
-
-- **Google Slides** — https://docs.google.com/presentation/
-- **Canva Pitch Templates** — https://www.canva.com/presentations/templates/pitch-deck/
-
----
-
-### 🛠 Helpful Resources
-
-- **Starter Hackathon Template** — https://github.com/HACK-UNIVERSITY-WORLDWIDE/starter-hackathon-project
-- **GitHub README Guide** — https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
-- **README Generator** — https://readme.so/
-- **Google Cloud Free Tier** — https://cloud.google.com/free
-- **Google Cloud Security** — https://cloud.google.com/security
+Absolutely — most people do. Team formation at 9:00 AM matches solo hackers in minutes. Teams are 1–4 people (yes, solo is allowed).
 
 </details>
-
-</details>
-
----
 
 <details>
-<summary><h3>🎯 Final Goal</h3></summary>
+<summary><strong>How are projects evaluated?</strong></summary>
 
-305 HackShells is built on one idea — that students should be able to collaborate, build, and showcase real projects in a single day.
+Strength of the idea, quality of delivery, and level of innovation. A fully coded product is NOT required — but every team should present something that makes the concept feel real: a strong prototype, product flow, demo, or experience that clearly shows how it would work. Winners are the teams that bring their concept to life most convincingly.
 
-In this SecureBuild Edition, participants will meet other students, form teams quickly, and spend 12 hours building projects that make the digital world safer using cybersecurity practices and Google Cloud. Throughout the event, they will create a working demo, follow live updates and resources from organizers, and stay connected with the Hack University community of student builders.
+</details>
 
-**No prior experience required. Just show up and build.**
+<details>
+<summary><strong>What's Session B?</strong></summary>
+
+The virtual asynchronous track — it runs the entire month of June (Jun 1–30) so you can build from anywhere. Certificate for winners. The June 27 in-person day (Session A) is the one with food, mentors, and live judging.
+
+</details>
+
+<details>
+<summary><strong>Who runs this?</strong></summary>
+
+Swift Club at FIU, as part of the Hack University ecosystem — made possible by GDG at FIU, Code Crunch, ColorStack at FIU, CAHSI at FIU, Raspberry Pi Code Crunch, and Upsilon Phi Epsilon.
 
 </details>
 
 ---
+
+## 🔗 Links & Resources
+
+**Event**
+- 📝 RSVP / Event page — https://swiftclubatfiu.vercel.app/305HackShells
+- 🏆 Devpost — https://305hackshellsjune2026.devpost.com/
+- 📅 GDG event page — https://gdg.community.dev/events/details/google-gdg-on-campus-florida-international-university-presents-305-hackshells-hackathon-edition-jun-2026/
+
+**Build**
+- 🚀 Starter template (START HERE) — https://github.com/HACK-UNIVERSITY-WORLDWIDE/starter-hackathon-project
+- ☁️ Google Cloud Free Tier — https://cloud.google.com/free
+- 🛡 Google Cloud Security — https://cloud.google.com/security
+- 🎨 Excalidraw (diagrams) — https://excalidraw.com
+- 🖥 Vercel (free hosting) — https://vercel.com
+
+**Pitch**
+- 📊 Google Slides — https://docs.google.com/presentation/
+- 🎨 Canva pitch templates — https://www.canva.com/presentations/templates/pitch-deck/
+
+---
+
+<p align="center"><strong>🐚 One day. One build. No prior experience required — just show up and build.</strong></p>
